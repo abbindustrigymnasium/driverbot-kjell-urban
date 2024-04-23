@@ -27,3 +27,8 @@
 ## Vecka 22: Showtime
 -	Kontrollera att allt fungerar, färdigställ de avancerade funktionerna
 -	Fokusera på de avancerade funktionerna
+## Skiss hemsida
+![WIN_20240423_12_42_08_Pro](https://github.com/abbindustrigymnasium/driverbot-kjell-urban/assets/144139266/92d7a562-8ade-4c0c-8af2-c102e99bfaac)
+## Skiss
+![WIN_20240423_13_04_45_Pro](https://github.com/abbindustrigymnasium/driverbot-kjell-urban/assets/144139266/21030c14-1e35-4f3c-9741-23971fae943d)
+
